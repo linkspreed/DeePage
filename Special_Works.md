@@ -1,53 +1,51 @@
+### 18.12.2022 (announcement Deepage)
+- Check out the official Github Repo for **DeePage**!
+- https://github.com/linkspreed/DeePage
 
-### 17.12.2022 (announcement Spypy)
-- Our **Spypy** logo is back! 
-- We could fix the bug on the site instantly.
+### 18.12.2022 (announcement Deepage)
+- **DeePage** now gets its own Github repository.
 
-### 26.11.2022 (announcement Spypy)
-- The test run was successful.  
-- We are very proud of the result and the fast time!
+### 18.12.2022 (announcement Deepage)
+- I'm proud to announce that **DeepPage** is available online and free for every user.
 
-### 26.11.2022 (announcement Spypy)
-- We're going to do a full control run on **Spypy** now :D
+### 18.12.2022 (announcement Deepage)
+- We are now running a full test run on Deepage. 🏃
 
-### 25.11.2022 (announcement Spypy)
-- We fixed the registration problem on **Spypy**. 
-- Everything works fine now! 😎
+### 17.12.2022 (announcement Deepage)
+- The mail server for **DeePage** is now configured. 💬
 
-### 30.10.2022 (announcement Spypy)
-- We're working on **Spypy**.
+### 17.12.2022 (announcement Deepage)
+- Check out the new **DeePage** logo.
+- https://user-images.githubusercontent.com/102324985/208267863-22e196d9-5e4b-4728-9ee6-12c0b8989fac.png
 
-### 28.10.2022 (announcement Spypy)
-- https://github.com/linkspreed/Spypy/blob/main/changelog.txt
-- The entire changelog is now available on Github.
+### 17.12.2022 (announcement Deepage)
+- We've added **Deepage** to the Google Search Console.
 
-### 28.10.2022 (announcement Spypy)
-- The launch of version 17.0.0 of **Spypy** was successful! 🥳
-- The new update is live now :)
-- https://spypy.cf 🔗
+### 17.12.2022 (announcement Deepage)
+- **Deepage** is now using the Cloudflare infrastructure.
 
-### 28.10.2022 (announcement Spypy)
-- We are now starting the launch of v17.0.0.
+### 17.12.2022 (announcement Deepage)
+- We're adding **Deepage** to the Cloudflare network now!
 
-### 28.10.2022 (announcement Spypy)
-- The servers are now ready for the launch of version 17.0.0 for **Spypy**.
+### 17.12.2022 (announcement Deepage)
+- **DeePage** is now available on our status pages!
 
-### 28.10.2022 (announcement Spypy)
-- The code is now ready for the launch of version 17.0.0 for **Spypy**.
+### 17.12.2022 (announcement Deepage)
+- We are working diligently on DeePage to finish on time today. ✅
 
-### 28.10.2022 (announcement Spypy)
-- **Spypy** gets a big update today - we are going to launch v17.0.0. 😍
+### 17.12.2022 (announcement Deepage)
+- I am proud to be able to announce today that we will finish the development work on **DeePage** today!
 
-### 28.10.2022 (announcement Spypy)
-- We're developing new codes for **Spypy**.
 
-# 16.06.2022
-  - We have released a new update for Spypy. 
-  - Version 15.0.0 is now available.
+### 17.12.2022 (announcement Deepage)
+- **DeePage** = deep + page
+- Even better analytics for everyone! 😃
 
-# 14.06.2022
-  - Today on June 14th, 2022 we connected and pushed **Spypy** to the Cloudflare infrastructure.
-     - This improves both **speed** and **safety**.
+### 17.12.2022 (announcement Deepage)
+- **DeePage** has now entered its final stages!  woo-hoo 🥳🍾
 
-# 13.06.2022
-  - We have announced that we will be releasing a new and improved version of Spypy soon
+### 16.12.2022 (announcement Deepage)
+- The development work on **Deepage** is progressing very well! 🚀
+
+### 16.12.2022 (announcement Deepage)
+- We continue working on our new project - **Deepage**.
