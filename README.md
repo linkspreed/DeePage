@@ -1,11 +1,9 @@
-# <img align="left" alt="Spypy" width="150px" src="https://spypy.cf/uploads/main/4758865418db07133f069ca374980b58.png" draggable="false" />  ([Click to try 🚀](https://spypy.cf/))
+# <img align="left" alt="DeePage" width="150px" src="https://deepage.tk/uploads/main/81090c7f519048303420188f43075f62.png" draggable="false" />  ([Click to try 🚀](https://deepage.tk/))
 
-Spypy🔍 - get unlimited real-time✨ analytics for your website in 5 minutes📦
+DeePage 📊 - Get even better ⚡ analytics for you web platforms. 🌐
 
-
-
-## **[Changelog 🔍](https://github.com/linkspreed/Spypy/blob/main/changelog.txt)** **Check out the full Spypy changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Spypy/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Spypy besides development**
+## **[Changelog 📊](https://github.com/linkspreed/DeePage/blob/main/changelog.txt)** **Check out the full DeePage changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Deepage/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Deepage besides development**
 
 
 <div align="center">
@@ -98,7 +96,7 @@ I      - ntegrated simple, easy to use & translatable blogging system.
 
 ## More
 
-Spypy is **free**, **real-time** and with **unlimited** resources 
+DeePage is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -109,15 +107,15 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Spypy freely and use all features to an unlimited extent.
+ You can enjoy DeePage freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
 ### Some ...
-<img align="center" alt="Spypy" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/1.PNG" draggable="false" />
+<img align="center" alt="DeePage" width="3000px" src="https://github.com/linkspreed/DeePage/blob/main/Screenshots/1.png" draggable="false" />
 
 ### ... more ...
-<img align="center" alt="Spypy" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/2.PNG" draggable="false" />
+<img align="center" alt="DeePage" width="3000px" src="https://github.com/linkspreed/DeePage/blob/main/Screenshots/2.png" draggable="false" />
 
-### ... Spypy
-<img align="center" alt="Spypy" width="3000px" src="https://github.com/linkspreed/Spypy/blob/main/Screenshots/3.PNG" draggable="false" />
+### ... DeePage
+<img align="center" alt="DeePage" width="3000px" src="https://github.com/linkspreed/DeePage/blob/main/Screenshots/3.png" draggable="false" />
