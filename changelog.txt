@@ -1,3 +1,25 @@
+Update 18.0.0 - 18 December, 2022
+
+Implemented unconfirmed users auto deletion feature, configurable via the admin panel.
+Implemented user deletion email notification for admins.
+Implemented Turnstile Cloudflare captcha system.
+Implemented a better color picker for all color type inputs.
+Implemented the ability to export to CSV, JSON, PDF the domains via the admin panel.
+Implemented the ability to show/hide the plans section on the homepage.
+Reworked URL redirection for better UX: When you access a page without being logged in, now you will be able to login and automatically be redirected to your initial requested page.
+Reworked the admin panel language translation pages for better clarity and also performance.
+Improved theme switcher: now the logo will automatically switch as well.
+Improved performance of the whole script & cron job by not running queries to the database when not needed.
+Now you can also upload Webp images in most image upload related forms.
+Taxes set from the admin panel can now contain decimals.
+The New Payments Webhook now sends the plan expiration date as well.
+Updated session replays library to the latest version.
+Reworked the Paddle implementation to work with the new API changes.
+Reworked all the Yes/No form selectors to switches, for better UX (1 less mouse click).
+Fixed blog post opengraph image not working properly.
+Fixed blog category page bug.
+Multiple other code cleanups, fixes and improvements.
+
 Update 17.0.0 - 28 October, 2022
 
 Reworked the admin panel user view page to see all the details available for a user account.
