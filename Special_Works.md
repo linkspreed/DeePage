@@ -1,4 +1,8 @@
 ### 27.01.2023 (announcement Deepage)
+- https://github.com/linkspreed/Deepage/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 27.01.2023 (announcement Deepage)
 - The launch of version 19.0.0 of **Deepage** was successful! 🥳
 - The new update is live now :)
 - https://deepage.tk 🔗
