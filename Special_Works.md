@@ -1,4 +1,7 @@
 ### 27.01.2023 (announcement Deepage)
+- The code is now ready for the launch of version 19.0.0 for **Deepage**.
+
+### 27.01.2023 (announcement Deepage)
 -  **Deepage** gets a big update today - we are going to launch v19.0.0 . 😍
 
 ### 18.12.2022 (announcement Deepage)
