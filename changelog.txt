@@ -1,3 +1,15 @@
+Update 19.0.0 - 17 January, 2023
+
+Added average sessions per visitor widget in the visitors tab.
+Implemented the ability to set Meta keywords for blog posts.
+Implemented the ability to set Meta keywords for individual pages.
+Implemented the ability to toggle the publishing status for blog posts.
+Implemented the ability to toggle the publishing status for individual pages.
+Implemented Order by last updated time filters for all resources.
+Fully reworked the UI of the admin panel.
+Fully reworked the UI of the installation, documentation and updating process to match the new admin panel UI.
+Fixed plans and invoice pages not using custom decimal and thousand separators.
+
 Update 18.0.0 - 18 December, 2022
 
 Implemented unconfirmed users auto deletion feature, configurable via the admin panel.
