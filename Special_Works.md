@@ -1,3 +1,6 @@
+### 05.02.2023 (announcement Smartpix)
+- We are now working on a Linkspreed platform that we have not really developed much in recent years, but which still has wonderful potential. 🌱 We continue to work on **Smartpix**!
+
 ### 05.02.2023 (announcement DeePage)
 - I'm happy to report that **DeePage** is working properly again and the problem of the page has been successfully fixed.
 
