@@ -1,4 +1,7 @@
 ### 05.02.2023 (announcement DeePage)
+- I'm happy to report that **DeePage** is working properly again and the problem of the page has been successfully fixed.
+
+### 05.02.2023 (announcement DeePage)
 - Right now we're working on **DeePage**. 📂
 
 ### 27.01.2023 (announcement Deepage)
