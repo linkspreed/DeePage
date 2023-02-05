@@ -1,3 +1,6 @@
+### 05.02.2023 (announcement DeePage)
+- Right now we're working on **DeePage**. 📂
+
 ### 27.01.2023 (announcement Deepage)
 - https://github.com/linkspreed/Deepage/blob/main/changelog.txt
 - The entire changelog is now available on Github.
