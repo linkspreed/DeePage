@@ -1,3 +1,6 @@
+### 12.06.2023 (announcement Deepage)
+- 🎉 Exciting news everyone! 🎉 We've just added Deepage to our subdomain system. 🔗 https://deepage.tk now redirects to https://deepage.linkspreed.com, but don't worry, everything works just as before! 👍🏼 Have you checked out the amazing features of Deepage yet? #Deepage #Subdomain #Linkspreed 💻🌐 What do you think of this new update? Let us know!
+
 ### 05.02.2023 (announcement DeePage)
 - I'm happy to report that **DeePage** is working properly again and the problem of the page has been successfully fixed.
 
