@@ -1,4 +1,4 @@
-# <img align="left" alt="DeePage" width="150px" src="https://deepage.tk/uploads/main/81090c7f519048303420188f43075f62.png" draggable="false" />  ([Click to try 🚀](https://deepage.tk/)) (v19.0.0)
+# <img align="left" alt="DeePage" width="150px" src="https://deepage.tk/uploads/main/81090c7f519048303420188f43075f62.png" draggable="false" />  ([Click to try 🚀](https://deepage.tk/)) (v25.0.0)
 
 DeePage 📊 - Get even better ⚡ analytics for you web platforms. 🌐
 
