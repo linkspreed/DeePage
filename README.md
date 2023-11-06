@@ -1,6 +1,7 @@
-# <img align="left" alt="DeePage" width="150px" src="https://deepage.tk/uploads/main/81090c7f519048303420188f43075f62.png" draggable="false" />  ([Click to try 🚀](https://deepage.tk/)) (v25.0.0)
+# <img align="left" alt="DeePage" width="150px" src="https://github.com/linkspreed/DeePage/assets/102324985/7260a9d2-8f29-4066-922d-ebecf54b6a3e" draggable="false" />  ([Click to try 🚀](https://deepage.tk/)) (v25.0.0)
 
 DeePage 📊 - Get even better ⚡ analytics for you web platforms. 🌐
+
 
 ## **[Changelog 📊](https://github.com/linkspreed/DeePage/blob/main/changelog.txt)** **Check out the full DeePage changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Deepage/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Deepage besides development**
