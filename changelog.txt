@@ -1,3 +1,133 @@
+Update 25.0.0 - 06 November, 2023
+
+Implemented & Released the new PWA Plugin.
+Implemented the ability to set icons for custom pages created in the admin panel.
+Implemented the ability to change the tracking type and cookie tracking duration of the affiliate system.
+Implemented API endpoint for Domains in the admin panel.
+Implemented Ad blocker detection alert system.
+Implemented Ad blocker detection lock content until ad blocker is disabled.
+Implemented Admin panel Webhooks for Domains creation & update events.
+Implemented the ability to change the main font of the whole website directly from the admin panel.
+Implemented Database tables size stats in the admin panel statistics page.
+Implemented Search widget for the Blogging system.
+Implemented the ability to change the IP displayed to the user for the Custom Domains page shown to the user.
+Implemented Redeemed Codes Statistics page in the Admin panel.
+Implemented User's plans distribution statistics table in the Admin panel.
+Implemented Blog RSS feed.
+Implemented Microsoft social login.
+Implemented canonical tags for public pages where they will help with SEO.
+Implemented the ability to change the OpenAI model for admin panel translation usage.
+Implemented the ability to set a CDN via the Offload plugin.
+Implemented the ability to set a Language flag and also set the order of the Languages via the admin panel.
+Improved the Pay page by displaying an alert on the title when leaving the page.
+Improved the UI on the admin panel statistics page.
+Cleaned up the share buttons used in places like blog posts & custom pages and added Telegram share button.
+Upgraded ReCaptcha, PHPMailer, TwoFactorAuth, Stripe project dependencies to their latest versions.
+Other small code improvements, changes and tweaks across the whole product.
+Fix API User endpoint not working properly.
+Fix Paypal recurring payment rare issue when the business name is not provided.
+Fix Admin panel Discount update not working properly in some cases.
+
+Update 24.0.0 - 14 September, 2023
+
+Implemented the ability to enable/disable testimonials section in the landing page via the admin panel.
+Implemented the ability to enable/disable the theme switcher from the footer.
+Implemented FAQ block on the homepage which can be enabled from the admin panel.
+Implemented a new selector for dropdowns with search when needed.
+Improved announcements look on the frontend.
+Improved look on plans page.
+Improved look on affiliate page.
+Improved look on the call to action widget on the home page.
+Improved look on plan payment thank you page.
+Improved look and how internal notifications widget works.
+Improved look on the pixel creation/update page.
+Upgraded from FontAwesome 5 to FontAwesome 6.
+LinkedIn login transitioned to the new version required by LinkedIn.
+Added support for PHP 8.2.
+Added the new Threads social network in the footer - from the admin panel.
+Fixed broadcasts new editor variables not working properly.
+Other overall look and feel improvements.
+
+Update 23.0.0 - 5 August, 2023
+
+Implemented the ability to enable/disable blog system sections: popular widget, views, categories widget, whole system.
+Implemented the ability to enable/disable pages system sections: popular widget, views, whole system.
+Implemented new blocks type editor for the Pages & Blog articles creation page.
+Implemented new blocks type editor for the Broadcasting system.
+Implemented Spintax compatibility with Internal notifications & Broadcasting system.
+Reworked the languages system to improve the way languages are updated on future versions and SEO regarding the language switching mechanism.
+Improved the blog article edit / create page look.
+Improved the page edit / create page look.
+Improved the broadcasted emails - now you can mark a newsletter as a system email (mandatory) which will now show the unsubscribe button.
+Improved the broadcasted emails - now the user phishing code will show in there as well.
+Improved the caching on some pages that results in further performance improvements.
+Improved the blog category and pages category parts when there are no posts to display.
+Fixed internal notifications page not working properly.
+Fixed realtime analytics page not working.
+
+Update 22.0.0 - 21 July, 2023
+
+Implemented OpenAI API - Auto translation for the Languages section in the admin panel.
+Implemented new internal notifications system for users and admins.
+Implemented internal notifications broadcasts to users from the admin panel.
+Implemented the ability to customize the whole bootstrap theme colors via the admin panel.
+Implemented the ability to track broadcasts links clicks, views and show them in a proper new broadcasts statistics page.
+Implemented the ability to duplicate broadcasts.
+Implemented the ability to enable/disable the API system completely via the Admin panel.
+Implemented tooltips over the Create buttons (ex: Link create button) where the usage & limits of your current plans are shown.
+Implemented welcome emails to freshly registered users.
+Implemented the ability for the user to specify custom notes for invoices and improved the invoice look.
+Implemented the ability to force HTTPS requests.
+Implemented the ability to temporarily lock a user on multiple failed login attempts.
+Implemented the ability to temporarily lock a user on multiple failed password reset attempts.
+Implemented the ability to temporarily lock a user on multiple failed resend activation attempts.
+Implemented the ability to temporarily lock a user on multiple registration attempts.
+Implemented LinkedIn social login feature.
+Implemented the ability to only allow social logins registrations.
+Implemented the ability to allow and display newsletter sign up checkbox on the Registration page.
+Implemented new broadcasts filtering system by: subscription status, status, plans, source, continents, countries.
+Implemented caching for all the custom pages and pages categories for higher performance.
+Implemented caching for all the blog posts & blog categories for higher performance.
+Implemented caching for plan payment page for higher performance.
+Implemented caching for account stats in the dashboard for higher performance.
+Implemented intelligent performance optimization that will literally 100x and use less server resources for certain cached pages.
+Improved the admin panel dashboard - added online users counter.
+Improved all the chart looks, speed and animations.
+
+Update 21.0.0 - 10 May, 2023
+
+Implemented the new Broadcasts system which allows you to easily send bulk emails to your users.
+Implemented the ability to set the amount of days when the system should send a plan expiry reminder, via the admin panel.
+Implemented the ability to completely enable/disable the API system from the admin panel.
+Implemented the ability to set a maximum file size for payment proofs on Offline payments.
+Improved the look of the homepage with animations and styling changes.
+Improved the account settings pages with icons and cleaned up parts of the code.
+Updated the MaxMind countries & cities detection databases to their latest versions.
+Added icons for operating systems and browsers in the statistics pages.
+Improved API documentation pages with a good looking code highlighter.
+Other small improvements and new modifications to fit the new broadcasts system.
+Improved the admin panel payments page to show more details.
+Improved the admin panel codes page to be able to filter redeemed codes and payments.
+Improved the admin panel taxes page to be able to filter payments based on particular used taxes.
+Improved YooKassa payment gateway to support the receipt parameter.
+
+Update 20.0.0 - 14 March, 2023
+
+Implemented MercadoPago one time payments.
+On registration, now you will be redirected to a page containing the welcome=user_id URL parameter, for easy conversion management when needed.
+Implemented User city & continent tracking, viewable from the admin panel.
+Implemented Admin panel statistics for: Continents, Countries & Devices (including visual map).
+Implemented Admin panel plan duplication feature.
+Implemented user logs city & continent tracking as well.
+Implemented caching for plans making certain pages faster.
+Updated User API Admin endpoint with all the user details.
+Updated Admin User View page to display more user details.
+Improved the chart UI in certain scenarios when having a lot of dates selected.
+Updated svgMap library used to display the map of countries and improved the look of it.
+Updated rrweb session recording library to v2.0.0 alpha 6.
+Fixed API GET requests not working with the results_per_page paramter.
+Multiple other code cleanups and improvements.
+
 Update 19.0.0 - 17 January, 2023
 
 Added average sessions per visitor widget in the visitors tab.
